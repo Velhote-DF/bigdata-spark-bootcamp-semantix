@@ -57,7 +57,7 @@ https://mobileapps.saude.gov.br/esusvepi/files/unAFkcaNDeXajurGB7LChj8SgQYS2ptm/
 • Site: https://covid.saude.gov.br/
 • Guia do Site: Painel Geral
 
-#####1. Enviar os dados para o hdfs 
+####1. Enviar os dados para o hdfs 
     a) Baixar os arquivos
     Após baixar os arquivos CSVs enviar para o diretório spark/input (volume no Namenode)
 
